@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="show_dialog">show dialog</string>
+    <string name="egg">Egg</string>
+
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+
+
+    <string-array name="item_name">
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Egg</item>
+    </string-array>
+
+</resources>
